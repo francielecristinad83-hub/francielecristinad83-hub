@@ -1,4 +1,4 @@
-# Olá! Sou a Franciele 👋
+# Olá! Sou a Franciele 
 
 ### Desenvolvedora Back-end em formação | Python
 
